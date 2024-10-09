@@ -1,9 +1,9 @@
-<img src="https://drive.google.com/file/d/1YwgQrc9kbqfPNRqkDflw_uG9LlLu5Fib/view?usp=drive_link">
+<img align="right" alt="banner" width="100%" src="https://media.licdn.com/dms/image/v2/D4E16AQFOFYvylWXj1Q/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1696513572465?e=1733961600&v=beta&t=76qo_ytp-ysRw5l75BLsAcHNoHkjIIxqlcN3_jPYugk"/>
 <h1 align="center">Hi 👋, I'm Jere 😎</h1>
 <h3 align="center">Full Stack Web Developer from Argentina🔵⚪🔵</h3>
-<img align="right" alt="Coding" width="400" src="https://github.com/SupianIDz/SupianIDz/blob/main/coding.gif?raw=true" />
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jeremiasteruel" alt="jeremiasteruel" /></a> </p>
+<img align="right" alt="Coding" width="400" src="https://github.com/SupianIDz/SupianIDz/blob/main/coding.gif?raw=true" />
 
 - 🌱 I’m currently learning **Python**
 
