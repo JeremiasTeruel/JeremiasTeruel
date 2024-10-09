@@ -5,7 +5,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jeremiasteruel" alt="jeremiasteruel" /></a> </p>
 <img align="right" alt="Coding" width="400" src="https://github.com/SupianIDz/SupianIDz/blob/main/coding.gif?raw=true" />
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **React JS, Node JS, Python**
 
 - 👨‍💻 All of my projects are available at [https://jeremiasteruel-portfolio.vercel.app/#](https://jeremiasteruel-portfolio.vercel.app/#)
 
