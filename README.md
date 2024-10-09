@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://jeremiasteruel-portfolio.vercel.app/#](https://jeremiasteruel-portfolio.vercel.app/#)
 
-- 💬 Ask me about **HTML, CSS, JS, React JS**
+- 💬 Ask me about **FrontEnd & BackEnd**
 
 - 📫 How to reach me **jteruel8@gmail.com**
 
